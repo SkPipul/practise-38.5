@@ -1,0 +1,10 @@
+Local storage::
+1. Local storage is permanent in browser.
+2. the storage capacity is 5 to 10 mb.
+3. its can be changed by client
+
+
+Session storage::
+1. Session storage is not permanent in browser, when the browser is closed once the Session storage are removed permanently.
+2. the storage capacity is 5 mb.
+3. its can be changed by client
